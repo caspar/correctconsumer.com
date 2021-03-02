@@ -46,7 +46,7 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-bottom"
                                 effectTimeout={timeoutBase + 500}
                             >
-                                Secure, Wireless Opioid Dispenser
+                                Secure Wireless Opioid Dispenser
                             </SubTitle>
                         </Data>
                         <Arrow
@@ -54,11 +54,11 @@ export const Intro: FunctionComponent<{}> = () => {
                             onClick={() => scrollWindow()}
                         />
                     </Container>
-                    <Copyright
+                    {/* <Copyright
                         author="Caspar Camille Rubin"
                         source="https://unsplash.com/photos/fPkvU7RDmCo"
                         sourceText="Unsplash"
-                    />
+                    /> */}
                 </>
             )}
         </Query>

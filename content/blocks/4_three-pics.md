@@ -1,6 +1,6 @@
 ---
 id: 'three-pics'
-sort: 4
+sort: 2
 effect: fade-slide-top
 effectTimeout: 0
 graphics:
@@ -18,4 +18,4 @@ graphics:
     source: https://unsplash.com/photos/H-qqp_Eqaww
 ---
 
-We also support displaying a series of images:
+Here are some images:

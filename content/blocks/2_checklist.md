@@ -1,12 +1,12 @@
 ---
 id: checklist
-sort: 2
+sort: 
 fontSize: standard
 effect: fade-slide-top
 effectTimeout: 0
 ---
 
-In this starter, we have:
+Product Features:
 
 ✅ full support of [Styled Components](https://www.styled-components.com/), without creepy FOUC and other artifacts,<br />
 ✅ managing data with [Netlify CMS](https://www.netlifycms.org/) and deploying to [Netlify hosting](https://www.netlify.com/), [check this out](/admin),<br />

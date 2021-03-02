@@ -28,6 +28,6 @@ interface DashProps {
 export const Dash = styled.div<DashProps>`
     height: 1px;
     width: 200px;
-    background-color: #000;
+    background-color: #100;
     ${props => (props.bottom ? 'margin-top' : 'margin-bottom')}: 1rem;
 `;

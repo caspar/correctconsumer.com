@@ -1,6 +1,6 @@
 export const theme = {
     color: {
-        background: 'white',
+        background: '#C0C4E9',
         text: '#0a0a0a',
     },
     grid: {

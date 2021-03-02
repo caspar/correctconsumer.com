@@ -6,5 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Hello. This is a starter for GatsbyJS framework.
-
+Correct Consumer aims to combat the opioid crisis with a dual hardware-software approch. 
