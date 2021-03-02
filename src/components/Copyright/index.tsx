@@ -14,7 +14,7 @@ export const Copyright: FunctionComponent<Props> = ({
 
     return (
         <CopyrightContainer>
-            {!!author && <span>Photo by {author}</span>}
+            {!!author && <span>{author}</span>}
             {!!source && (
                 <span>
                     {author ? ' on ' : ''}
