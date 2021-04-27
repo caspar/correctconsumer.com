@@ -6,4 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Correct Consumer aims to combat the opioid crisis with a dual hardware-software approch.
+Correct Consumer aims to ensure that prescription medication is taken by the intended recipient. 
