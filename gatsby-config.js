@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: 'Grayscale promo',
-        description: 'Grayscale promo gatsby starter',
+        title: 'Correct Consumer',
+        description: 'Correct Consumer Medication Accountability Tool',
         author: '@caspar',
     },
     plugins: [
