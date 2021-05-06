@@ -6,7 +6,11 @@ const query = graphql`
     query HeaderImage {
         backgroundImage: file(relativePath: { eq: "header.jpg" }) {
             childImageSharp {
-                fluid(maxWidth: 1240, quality: 80) {
+                fluid(
+                    maxWidth: 1240
+                    quality: 80
+                    traceSVG: { color: "#9596cf" }
+                ) {
                     ...GatsbyImageSharpFluid_tracedSVG
                 }
             }

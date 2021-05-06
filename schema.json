@@ -3428,11 +3428,11 @@
                         "defaultValue": null
                     },
                     {
-                        "name": "graphics",
+                        "name": "fontSize",
                         "description": "",
                         "type": {
                             "kind": "INPUT_OBJECT",
-                            "name": "MarkdownRemarkFrontmatterGraphicsFilterListInput",
+                            "name": "StringQueryOperatorInput",
                             "ofType": null
                         },
                         "defaultValue": null
@@ -3458,11 +3458,11 @@
                         "defaultValue": null
                     },
                     {
-                        "name": "fontSize",
+                        "name": "graphics",
                         "description": "",
                         "type": {
                             "kind": "INPUT_OBJECT",
-                            "name": "StringQueryOperatorInput",
+                            "name": "MarkdownRemarkFrontmatterGraphicsFilterListInput",
                             "ofType": null
                         },
                         "defaultValue": null
@@ -7570,17 +7570,13 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "graphics",
+                        "name": "fontSize",
                         "description": null,
                         "args": [],
                         "type": {
-                            "kind": "LIST",
-                            "name": null,
-                            "ofType": {
-                                "kind": "OBJECT",
-                                "name": "MarkdownRemarkFrontmatterGraphics",
-                                "ofType": null
-                            }
+                            "kind": "SCALAR",
+                            "name": "String",
+                            "ofType": null
                         },
                         "isDeprecated": false,
                         "deprecationReason": null
@@ -7610,13 +7606,17 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "fontSize",
+                        "name": "graphics",
                         "description": null,
                         "args": [],
                         "type": {
-                            "kind": "SCALAR",
-                            "name": "String",
-                            "ofType": null
+                            "kind": "LIST",
+                            "name": null,
+                            "ofType": {
+                                "kind": "OBJECT",
+                                "name": "MarkdownRemarkFrontmatterGraphics",
+                                "ofType": null
+                            }
                         },
                         "isDeprecated": false,
                         "deprecationReason": null
@@ -9194,6 +9194,24 @@
                         "deprecationReason": null
                     },
                     {
+                        "name": "childMarkdownRemark___frontmatter___fontSize",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
+                        "name": "childMarkdownRemark___frontmatter___effect",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
+                        "name": "childMarkdownRemark___frontmatter___effectTimeout",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
                         "name": "childMarkdownRemark___frontmatter___graphics",
                         "description": null,
                         "isDeprecated": false,
@@ -9213,24 +9231,6 @@
                     },
                     {
                         "name": "childMarkdownRemark___frontmatter___graphics___source",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "childMarkdownRemark___frontmatter___effect",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "childMarkdownRemark___frontmatter___effectTimeout",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "childMarkdownRemark___frontmatter___fontSize",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null
@@ -11350,6 +11350,24 @@
                         "deprecationReason": null
                     },
                     {
+                        "name": "frontmatter___fontSize",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
+                        "name": "frontmatter___effect",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
+                        "name": "frontmatter___effectTimeout",
+                        "description": null,
+                        "isDeprecated": false,
+                        "deprecationReason": null
+                    },
+                    {
                         "name": "frontmatter___graphics",
                         "description": null,
                         "isDeprecated": false,
@@ -11585,24 +11603,6 @@
                     },
                     {
                         "name": "frontmatter___graphics___source",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "frontmatter___effect",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "frontmatter___effectTimeout",
-                        "description": null,
-                        "isDeprecated": false,
-                        "deprecationReason": null
-                    },
-                    {
-                        "name": "frontmatter___fontSize",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null

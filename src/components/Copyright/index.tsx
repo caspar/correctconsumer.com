@@ -15,14 +15,6 @@ export const Copyright: FunctionComponent<Props> = ({
     return (
         <CopyrightContainer>
             {!!author && <span>{author}</span>}
-            {!!source && (
-                <span>
-                    {author ? ' on ' : ''}
-                    <a href={source} target="_blank" rel="noopener noreferrer">
-                        {sourceText || source}
-                    </a>
-                </span>
-            )}
         </CopyrightContainer>
     );
 };

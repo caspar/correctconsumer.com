@@ -1265,13 +1265,13 @@ enum FileFieldsEnum {
     childMarkdownRemark___frontmatter___title
     childMarkdownRemark___frontmatter___id
     childMarkdownRemark___frontmatter___sort
+    childMarkdownRemark___frontmatter___fontSize
+    childMarkdownRemark___frontmatter___effect
+    childMarkdownRemark___frontmatter___effectTimeout
     childMarkdownRemark___frontmatter___graphics
     childMarkdownRemark___frontmatter___graphics___author
     childMarkdownRemark___frontmatter___graphics___sourceText
     childMarkdownRemark___frontmatter___graphics___source
-    childMarkdownRemark___frontmatter___effect
-    childMarkdownRemark___frontmatter___effectTimeout
-    childMarkdownRemark___frontmatter___fontSize
     childMarkdownRemark___frontmatter___widget
     childMarkdownRemark___excerpt
         @deprecated(
@@ -2560,6 +2560,9 @@ enum MarkdownRemarkFieldsEnum {
     frontmatter___title
     frontmatter___id
     frontmatter___sort
+    frontmatter___fontSize
+    frontmatter___effect
+    frontmatter___effectTimeout
     frontmatter___graphics
     frontmatter___graphics___author
     frontmatter___graphics___image___birthtime
@@ -2600,9 +2603,6 @@ enum MarkdownRemarkFieldsEnum {
     frontmatter___graphics___image___children
     frontmatter___graphics___sourceText
     frontmatter___graphics___source
-    frontmatter___effect
-    frontmatter___effectTimeout
-    frontmatter___fontSize
     frontmatter___widget
     excerpt
         @deprecated(
@@ -3024,10 +3024,10 @@ type MarkdownRemarkFrontmatter {
     title: String
     id: String
     sort: Float
-    graphics: [MarkdownRemarkFrontmatterGraphics]
+    fontSize: String
     effect: String
     effectTimeout: Int
-    fontSize: String
+    graphics: [MarkdownRemarkFrontmatterGraphics]
     widget: String
 }
 
@@ -3035,10 +3035,10 @@ input MarkdownRemarkFrontmatterFilterInput {
     title: StringQueryOperatorInput
     id: StringQueryOperatorInput
     sort: FloatQueryOperatorInput
-    graphics: MarkdownRemarkFrontmatterGraphicsFilterListInput
+    fontSize: StringQueryOperatorInput
     effect: StringQueryOperatorInput
     effectTimeout: IntQueryOperatorInput
-    fontSize: StringQueryOperatorInput
+    graphics: MarkdownRemarkFrontmatterGraphicsFilterListInput
     widget: StringQueryOperatorInput
 }
 

@@ -25,7 +25,7 @@ export const BackgroundImage = styled(Img)`
 export const ImageOverlay = styled.div`
     ${absoluteCover()};
     background-color: black;
-    opacity: 0.6;
+    opacity: 0;
 `;
 
 const expandVertically = 'height: 100vh; overflow-y: hidden;';
@@ -36,6 +36,7 @@ export const Data = styled.div`
         md: expandVertically,
         lg: expandVertically,
     })}
+    transform: translate(0%, -10%);
     padding: 2rem 1rem;
     position: relative;
 `;
@@ -73,12 +74,12 @@ export const Title = withEffects(styled.h1`
     ${media({
         xs: `
         font-size: 1.5rem;
-        letter-spacing: 0.15rem;
+        letter-spacing: 0.25rem;
     `,
     })};
     color: white;
     text-align: center;
-    margin: 0;
+    margin: 0 0 0 0;
 
     // @ts-ignore
     ${props => effect(props)}
