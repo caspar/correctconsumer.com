@@ -12,8 +12,7 @@
 [![Language][language-shield]][language-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca134944-33b3-41ac-8d12-048fc8c20637/deploy-status)](https://app.netlify.com/sites/correctconsumer.com/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33f7184a-3241-42b5-885a-1af0f00bac3d/deploy-status)](https://app.netlify.com/sites/correct-consumer/deploys)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
