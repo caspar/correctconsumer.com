@@ -12,13 +12,13 @@
 [![Language][language-shield]][language-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca134944-33b3-41ac-8d12-048fc8c20637/deploy-status)](https://app.netlify.com/sites/gatsby-starter-grayscale-promo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca134944-33b3-41ac-8d12-048fc8c20637/deploy-status)](https://app.netlify.com/sites/correctconsumer.com/deploys)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <!--
-  <a href="https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter">
+  <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   -->
@@ -29,15 +29,15 @@
     An awesome GatsbyJS template to build a smiple landing fast
     <!--
     <br />
-    <a href="https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter"><strong>Explore the docs »</strong></a>
     -->
     <br />
     <br />
-    <a href="https://gatsby-starter-grayscale-promo.netlify.com/">View Demo</a>
+    <a href="https://correctconsumer.com.netlify.com/">View Demo</a>
     ·
-    <a href="https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/issues">Report Bug</a>
+    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/issues">Request Feature</a>
+    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -87,7 +87,7 @@ You should have [nodejs](https://nodesource.com/blog/installing-node-js-tutorial
 
 * Clone the repository into your local folder
 ```sh
-gatsby new local-folder awesome1888/gatsby-starter-grayscale-promo
+gatsby new local-folder caspar/correctconsumer.com
 ```
 * Install dependences
 ```sh
@@ -101,7 +101,7 @@ yarn start;
 
 ### Deployment
 
-* Do project-wide replacement of `awesome1888` and `gatsby-starter-grayscale-promo` with your own GitHub username and repo name.
+* Do project-wide replacement of `caspar` and `correctconsumer.com` with your own GitHub username and repo name.
 * Setup [NetlifyCMS account](https://www.netlifycms.org/) and integrate it with your GitHub repo.
 * Commit to the repo, see the changes online in a couple of minutes!
 * To edit the content, go to the `/admin` section of your website.
@@ -113,7 +113,7 @@ yarn start;
 * analytics support
 * page auto-generation support
 
-See the [open issues](https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sergei Gannochenko - [Linkedin](https://www.linkedin.com/in/sergey-gannochenko/)
 
-Project Link: [https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter](https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter)
+Project Link: [https://github.com/caspar/grayscale-promo-gatsbyjs-starter](https://github.com/caspar/grayscale-promo-gatsbyjs-starter)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -148,18 +148,18 @@ Special thanks to:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[contributors-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/graphs/contributors
-[language-shield]: https://img.shields.io/github/languages/top/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[language-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter
-[forks-shield]: https://img.shields.io/github/forks/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[forks-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/network/members
-[stars-shield]: https://img.shields.io/github/stars/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[stars-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[issues-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/issues
-[license-shield]: https://img.shields.io/github/license/awesome1888/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[license-url]: https://github.com/awesome1888/grayscale-promo-gatsbyjs-starter/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[contributors-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/graphs/contributors
+[language-shield]: https://img.shields.io/github/languages/top/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[language-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter
+[forks-shield]: https://img.shields.io/github/forks/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[forks-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/network/members
+[stars-shield]: https://img.shields.io/github/stars/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[stars-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[issues-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues
+[license-shield]: https://img.shields.io/github/license/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
+[license-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sergey-gannochenko/
 [product-screenshot]: images/screenshot.png

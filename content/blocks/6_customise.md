@@ -6,4 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-For further details on how to customise the starter, check out [README.md](https://github.com/awesome1888/gatsby-starter-grayscale-promo/blob/master/README.md)
+For further details on how to customise the starter, check out [README.md](https://github.com/caspar/correctconsumer.com/blob/master/README.md)
