@@ -1,6 +1,8 @@
 backend:
     name: github
     repo: caspar/correctconsumer.com
+    branch: main
+    base_url: https://correctconsumer.vercel.app/
 media_folder: static/assets
 public_folder: assets
 media_folder_relative: true
