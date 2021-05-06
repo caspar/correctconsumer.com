@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <!--
-  <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter">
+  <a href="https://github.com/caspar/correctconsumer.com">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   -->
@@ -29,15 +29,15 @@
     An awesome GatsbyJS template to build a smiple landing fast
     <!--
     <br />
-    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/caspar/correctconsumer.com"><strong>Explore the docs »</strong></a>
     -->
     <br />
     <br />
     <a href="https://correctconsumer.com.netlify.com/">View Demo</a>
     ·
-    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues">Report Bug</a>
+    <a href="https://github.com/caspar/correctconsumer.com/issues">Report Bug</a>
     ·
-    <a href="https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues">Request Feature</a>
+    <a href="https://github.com/caspar/correctconsumer.com/issues">Request Feature</a>
   </p>
 </p>
 
@@ -113,7 +113,7 @@ yarn start;
 * analytics support
 * page auto-generation support
 
-See the [open issues](https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/caspar/correctconsumer.com/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sergei Gannochenko - [Linkedin](https://www.linkedin.com/in/sergey-gannochenko/)
 
-Project Link: [https://github.com/caspar/grayscale-promo-gatsbyjs-starter](https://github.com/caspar/grayscale-promo-gatsbyjs-starter)
+Project Link: [https://github.com/caspar/correctconsumer.com](https://github.com/caspar/correctconsumer.com)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -148,18 +148,18 @@ Special thanks to:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[contributors-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/graphs/contributors
-[language-shield]: https://img.shields.io/github/languages/top/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[language-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter
-[forks-shield]: https://img.shields.io/github/forks/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[forks-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/network/members
-[stars-shield]: https://img.shields.io/github/stars/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[stars-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[issues-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/issues
-[license-shield]: https://img.shields.io/github/license/caspar/grayscale-promo-gatsbyjs-starter.svg?style=flat-square
-[license-url]: https://github.com/caspar/grayscale-promo-gatsbyjs-starter/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/caspar/correctconsumer.com.svg?style=flat-square
+[contributors-url]: https://github.com/caspar/correctconsumer.com/graphs/contributors
+[language-shield]: https://img.shields.io/github/languages/top/caspar/correctconsumer.com.svg?style=flat-square
+[language-url]: https://github.com/caspar/correctconsumer.com
+[forks-shield]: https://img.shields.io/github/forks/caspar/correctconsumer.com.svg?style=flat-square
+[forks-url]: https://github.com/caspar/correctconsumer.com/network/members
+[stars-shield]: https://img.shields.io/github/stars/caspar/correctconsumer.com.svg?style=flat-square
+[stars-url]: https://github.com/caspar/correctconsumer.com/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caspar/correctconsumer.com.svg?style=flat-square
+[issues-url]: https://github.com/caspar/correctconsumer.com/issues
+[license-shield]: https://img.shields.io/github/license/caspar/correctconsumer.com.svg?style=flat-square
+[license-url]: https://github.com/caspar/correctconsumer.com/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sergey-gannochenko/
 [product-screenshot]: images/screenshot.png

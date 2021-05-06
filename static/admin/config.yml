@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: caspar/grayscale-promo-gatsbyjs-starter
+    repo: caspar/correctconsumer.com
 media_folder: static/assets
 public_folder: assets
 media_folder_relative: true
