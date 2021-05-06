@@ -1,9 +1,8 @@
 ---
 id: about
 sort: 1
-fontSize: medium
 effect: fade-slide-top
 effectTimeout: 0
+fontSize: medium
 ---
-
-Correct Consumer aims to ensure that prescription medication is taken by the intended recipient. 
+Correct Consumer is a medication accountability tool that ensures prescription medications are taken by the intended patient.
