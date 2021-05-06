@@ -10,7 +10,7 @@ export const Container = styled.div`
     ${align('center', 'center', 'column')}
     ${group('0.5rem')};
 
-    background-color: #333333;
+    background-color: #EE7E31;
     color: white;
     font-size: 0.8rem;
     font-weight: 300;
