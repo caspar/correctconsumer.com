@@ -1,9 +1,10 @@
 ---
-id: accented
+id: supply-chain
 sort: 5
-widget: AccentBlock
-effect: fade-slide-top
+graphics:
+  - image: /assets/dispenser-demo.00_00_33_21.Still001.jpg
+widget: StandardBlock
 effectTimeout: 0
 fontSize: standard
 ---
-We support different design widgets as well!
+Prescription medication can be diverted from anywhere in the drug delivery chain. Correct Consumer focuses on medication diverted directly by the patient.
