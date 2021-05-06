@@ -1,5 +1,5 @@
 backend:
-    name: github
+    name: [github | gitlab]
     repo: caspar/correctconsumer.com
     branch: main
     base_url: https://netlify-cms.adrianub.vercel.app
