@@ -2,7 +2,7 @@
 id: three-pics
 sort: 10
 graphics:
-  - author: Facial Recognition
+  - author: 'Facial Recognition '
     image: /assets/dispenser-demo.00_00_54_31.Still002.jpg
     source: 'https://correctconsumer.com'
     sourceText: CorrectConsumer
@@ -16,6 +16,7 @@ graphics:
     sourceText: CorrectConsumer
 effect: fade-slide-top
 effectTimeout: 0
+fontSize: large
 ---
 
 Our software is a ....
