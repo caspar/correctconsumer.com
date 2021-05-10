@@ -6,7 +6,7 @@ effect: fade-slide-right
 effectTimeout: 0
 fontSize: standard
 ---
-Step 1
+#Step 1
 <img align="left" width="60%" src="https://correctconsumer.com/assets/dispenser-demo.00_00_54_31.Still002.jpg">
 
 
