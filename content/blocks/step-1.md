@@ -2,6 +2,7 @@
 id: step-1
 sort: 3
 graphics: []
+widget: QuoteBlock
 effect: fade-slide-right
 effectTimeout: 0
 fontSize: standard
