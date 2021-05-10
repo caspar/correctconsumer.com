@@ -115,6 +115,11 @@ export const GlobalStyle = createGlobalStyle`
       display: inline-block;
     }
     
+    video::-webkit-media-controls-panel {
+      background-image: none !important;
+      filter: brightness(0.4);
+   }
+
     audio:not([controls]) {
       display: none;
       height: 0;
