@@ -120,6 +120,11 @@ export const GlobalStyle = createGlobalStyle`
       height: 0;
     }
     
+    video::-webkit-media-controls-panel {
+      background-image: none !important;
+      filter: brightness(0.4);
+   }
+   
     img {
       border-style: none;
     }
