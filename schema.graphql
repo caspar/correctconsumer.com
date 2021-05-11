@@ -1270,8 +1270,8 @@ enum FileFieldsEnum {
     childMarkdownRemark___frontmatter___effectTimeout
     childMarkdownRemark___frontmatter___graphics
     childMarkdownRemark___frontmatter___graphics___author
-    childMarkdownRemark___frontmatter___graphics___source
     childMarkdownRemark___frontmatter___graphics___sourceText
+    childMarkdownRemark___frontmatter___graphics___source
     childMarkdownRemark___frontmatter___widget
     childMarkdownRemark___excerpt
         @deprecated(
@@ -2601,8 +2601,8 @@ enum MarkdownRemarkFieldsEnum {
     frontmatter___graphics___image___publicURL
     frontmatter___graphics___image___id
     frontmatter___graphics___image___children
-    frontmatter___graphics___source
     frontmatter___graphics___sourceText
+    frontmatter___graphics___source
     frontmatter___widget
     excerpt
         @deprecated(
@@ -3023,7 +3023,7 @@ input MarkdownRemarkFilterInput {
 type MarkdownRemarkFrontmatter {
     title: String
     id: String
-    sort: Int
+    sort: Float
     fontSize: String
     effect: String
     effectTimeout: Int
@@ -3034,7 +3034,7 @@ type MarkdownRemarkFrontmatter {
 input MarkdownRemarkFrontmatterFilterInput {
     title: StringQueryOperatorInput
     id: StringQueryOperatorInput
-    sort: IntQueryOperatorInput
+    sort: FloatQueryOperatorInput
     fontSize: StringQueryOperatorInput
     effect: StringQueryOperatorInput
     effectTimeout: IntQueryOperatorInput
@@ -3045,15 +3045,15 @@ input MarkdownRemarkFrontmatterFilterInput {
 type MarkdownRemarkFrontmatterGraphics {
     author: String
     image: File
-    source: String
     sourceText: String
+    source: String
 }
 
 input MarkdownRemarkFrontmatterGraphicsFilterInput {
     author: StringQueryOperatorInput
     image: FileFilterInput
-    source: StringQueryOperatorInput
     sourceText: StringQueryOperatorInput
+    source: StringQueryOperatorInput
 }
 
 input MarkdownRemarkFrontmatterGraphicsFilterListInput {

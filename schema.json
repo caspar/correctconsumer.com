@@ -3422,7 +3422,7 @@
                         "description": "",
                         "type": {
                             "kind": "INPUT_OBJECT",
-                            "name": "IntQueryOperatorInput",
+                            "name": "FloatQueryOperatorInput",
                             "ofType": null
                         },
                         "defaultValue": null
@@ -3530,7 +3530,7 @@
                         "defaultValue": null
                     },
                     {
-                        "name": "source",
+                        "name": "sourceText",
                         "description": "",
                         "type": {
                             "kind": "INPUT_OBJECT",
@@ -3540,7 +3540,7 @@
                         "defaultValue": null
                     },
                     {
-                        "name": "sourceText",
+                        "name": "source",
                         "description": "",
                         "type": {
                             "kind": "INPUT_OBJECT",
@@ -7563,7 +7563,7 @@
                         "args": [],
                         "type": {
                             "kind": "SCALAR",
-                            "name": "Int",
+                            "name": "Float",
                             "ofType": null
                         },
                         "isDeprecated": false,
@@ -7669,7 +7669,7 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "source",
+                        "name": "sourceText",
                         "description": null,
                         "args": [],
                         "type": {
@@ -7681,7 +7681,7 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "sourceText",
+                        "name": "source",
                         "description": null,
                         "args": [],
                         "type": {
@@ -9224,13 +9224,13 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "childMarkdownRemark___frontmatter___graphics___source",
+                        "name": "childMarkdownRemark___frontmatter___graphics___sourceText",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null
                     },
                     {
-                        "name": "childMarkdownRemark___frontmatter___graphics___sourceText",
+                        "name": "childMarkdownRemark___frontmatter___graphics___source",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null
@@ -11596,13 +11596,13 @@
                         "deprecationReason": null
                     },
                     {
-                        "name": "frontmatter___graphics___source",
+                        "name": "frontmatter___graphics___sourceText",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null
                     },
                     {
-                        "name": "frontmatter___graphics___sourceText",
+                        "name": "frontmatter___graphics___source",
                         "description": null,
                         "isDeprecated": false,
                         "deprecationReason": null
