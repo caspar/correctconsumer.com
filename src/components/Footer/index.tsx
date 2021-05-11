@@ -5,11 +5,7 @@ export const Footer: FunctionComponent<{}> = () => {
     return (
         <Container>
             <Info>
-                <NoWrap>&copy; 2021</NoWrap>{' '}
-                <NoWrap>
-                    Correct Consumer &mdash; Caspar Lant, Shaun Maher, Dennis
-                    Shasha
-                </NoWrap>
+                <NoWrap>&copy; 2021</NoWrap> <NoWrap>Correct Consumer</NoWrap>
             </Info>
         </Container>
     );
