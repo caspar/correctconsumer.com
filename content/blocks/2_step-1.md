@@ -10,4 +10,4 @@ fontSize: standard
 <img align="left" width="60%" src="https://correctconsumer.com/assets/step-1.jpg">
 
 
-After powering on the dispenser device and pairing it with their mobile phone, the patient's identity is verified with facial recognition.
+After the dispenser is powered on and paired with a mobile phone, the patient's identity is verified with facial recognition.

@@ -8,4 +8,4 @@ fontSize: standard
 #Step 2
 <img align="left" width="60%" src="https://correctconsumer.com/assets/step-2.jpg">
 
-The  dispensed medication is verified via optical character recognition
+The identifier of the dispensed medication is verified via optical character recognition

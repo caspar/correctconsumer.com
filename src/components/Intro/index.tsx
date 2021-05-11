@@ -46,7 +46,7 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-bottom"
                                 effectTimeout={timeoutBase + 500}
                             >
-                                Secure Wireless Opioid Dispenser
+                                Secure Wireless Medication Dispenser
                             </SubTitle>
                         </Data>
                         <Arrow
