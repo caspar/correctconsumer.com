@@ -1,5 +1,5 @@
 ---
-id: customise
+id: video
 sort: 6
 effect: fade-slide-top
 effectTimeout: 0
