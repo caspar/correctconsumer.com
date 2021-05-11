@@ -6,7 +6,10 @@ export const Footer: FunctionComponent<{}> = () => {
         <Container>
             <Info>
                 <NoWrap>&copy; 2021</NoWrap>{' '}
-                <NoWrap>Correct Consumer &mdash; Dennis Shasha Group</NoWrap>
+                <NoWrap>
+                    Correct Consumer &mdash; Caspar Lant, Shaun Maher, Dennis
+                    Shasha
+                </NoWrap>
             </Info>
         </Container>
     );
