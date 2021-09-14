@@ -2,7 +2,7 @@
 id: supply-chain
 sort: 
 graphics:
-  - image: /assets/supply-chain.jpg
+  # - image: /assets/supply-chain.jpg
 widget: StandardBlock
 effectTimeout: 0
 fontSize: standard
